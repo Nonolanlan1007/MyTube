@@ -6,8 +6,6 @@ const youtubedl = require('youtube-dl-exec')
 const {copyFile, unlink} = require('fs/promises')
 const {text} = require('figlet')
 
-return console.log(process)
-
 console.clear()
 text("MyTube", { font: "Standard"}, function(err, data) {
     if (err) {
