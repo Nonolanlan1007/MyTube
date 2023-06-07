@@ -1,6 +1,6 @@
 {
   "name": "mytube",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MyTube est un outil en ligne de commande (CLI) permettant de télécharger des vidéos ou des playlists YouTube.",
   "main": "bin/index.js",
   "scripts": {
