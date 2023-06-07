@@ -17,5 +17,9 @@
   },
   "bin": {
     "mytube": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nonolanlan1007/MyTube.git"
   }
 }
